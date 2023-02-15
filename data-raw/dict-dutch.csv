@@ -1,4 +1,4 @@
-﻿ID1,NL
+ID1,NL
 ABAT_0001_I_0001_1,Welkom bij de ritmeherkenningstest! 
 ABAT_0002_I_0001_1,Deze test meet uw vermogen om het ritme in een muziekfragment  te herkenen. \\ Er worden enkele muziekfragmenten afgespeeld. In elk fragment hoort u muziek samen met een **pieptoon** (een metronoom). \\Het is uw taak om te beslissen of de pieptoon **in** of **uit** het ritme van de muziek is. 
 ABAT_0003_I_0001_1,Klik op 'Volgende' om enkele voorbeelden te horen.
@@ -24,5 +24,4 @@ ABAT_0022_I_0001_1,Vorige
 enter_p_id,Vul uw ID in.
 results_have_been_saved,Uw resultaten zijn opgeslagen.
 you_may_close_browser,U mag het scherm sluiten.
-demo_intro,"Welkom bij de **ritmeherkenningstest**!\\Deze test past zich aan uw prestaties aan. Als u het goed doet, dan krijgt u moeilijkere items.\\Meestal is deze adaptieve procedure verborgen voor de deelnemer.  Voor deze demonstratie laten we echter uw hardloopvaardigheidsscore en bijbehorende moeilijkheidsgraad voor elke proef zien.
-"
+demo_intro,"Welkom bij de **ritmeherkenningstest**!\\Deze test past zich aan uw prestaties aan. Als u het goed doet, dan krijgt u moeilijkere items.\\Meestal is deze adaptieve procedure verborgen voor de deelnemer.  Voor deze demonstratie laten we echter uw hardloopvaardigheidsscore en bijbehorende moeilijkheidsgraad voor elke proef zien."

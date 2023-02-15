@@ -7,7 +7,10 @@ cabat_languages <- function() {
     English = "en",
     French = "fr",
     German = "de",
+    `German (Formal)` = "de_f",
     Italian = "it",
-    Spanish = "es"
+    Spanish = "es",
+    Russian = "ru",
+    Dutch = "nl"
   )
 }
