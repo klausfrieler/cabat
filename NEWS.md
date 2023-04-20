@@ -1,3 +1,7 @@
+# cabat 0.12.0
+
+* Added Latvian translations.
+
 # cabat 0.11.0
 
 * Added Italian translations.

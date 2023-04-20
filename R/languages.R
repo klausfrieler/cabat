@@ -11,6 +11,7 @@ cabat_languages <- function() {
     Italian = "it",
     Spanish = "es",
     Russian = "ru",
+    Latvian = "lv",
     Dutch = "nl"
   )
 }

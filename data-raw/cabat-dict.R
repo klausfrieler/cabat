@@ -25,6 +25,11 @@ names(italian)[[1]] <- "key"
 stopifnot(all(input$key == italian$key))
 input$IT <- italian$IT
 
+latvian <- read.csv("data-raw/dict-latvian.csv", stringsAsFactors = FALSE, fileEncoding = "utf-8")
+names(latvian)[[1]] <- "key"
+stopifnot(all(input$key == latvian$key))
+input$LV <- latvian$lv
+
 de_f <- read.csv("data-raw/dict-german-formal.csv", stringsAsFactors = FALSE, fileEncoding =  "utf-8")
 names(de_f)[[1]] <- "key"
 stopifnot(all(input$key == de_f$key))
