@@ -1,6 +1,10 @@
+# cabat 0.12.1
+
+* Fix typo in Latvian test.
+
 # cabat 0.12.0
 
-* Added Latvian translations.
+* Added Latvian support.
 
 # cabat 0.11.0
 
