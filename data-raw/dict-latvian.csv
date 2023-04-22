@@ -15,7 +15,7 @@
 "ABAT_0014_I_0001_1","**{{feedback}}**\\Spied 'Atgriezties atpakaļ', lai izlasītu instrukcijas un vēlreiz izmēģinātu piemērus,\\vai spied 'Tālāk', lai pārietu pie galvenā testa. "
 "ABAT_0015_I_0001_1","Otrajā"
 "ABAT_0016_I_0001_1","Tagad tu pāriesi pie galvenā testa. Testa rezultāti tiks saglabāti.\\Tu nesaņemsi atgriezenisko saiti. Veiksmi!"
-"ABAT_0017_I_0001_1","Jautājums**{{num_question}}** no **{{test_length}}**."
+"ABAT_0017_I_0001_1","Jautājums **{{num_question}}** no **{{test_length}}**."
 "ABAT_0018_I_0001_1","Tava pārlūkprogramma neatbalsta audio. Atvaino, šis tests nestrādās bez audio!"
 "ABAT_0019_I_0001_1","Vienā mūzikas fragmentā pīkstieni **IR** pulsā, bet otrā tie **NAV** pulsā.\\Kurā fragmentā pīkstieni **IR** pulsā? Ja tu nezini, mēģini uzminēt!"
 "ABAT_0020_I_0001_1","Tu esi pabeidzis pulsa uztveres testu!"
