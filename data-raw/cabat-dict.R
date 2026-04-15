@@ -32,5 +32,10 @@ names(de_f)[[1]] <- "key"
 stopifnot(all(input$key == de_f$key))
 input$DE_F <- de_f$DE_F
 
+portuguese <- read.csv("data-raw/dict-portuguese.csv", stringsAsFactors = FALSE, encoding = "utf-8")
+names(portuguese)[[1]] <- "key"
+stopifnot(all(input$key == portuguese$key))
+input$PT <- portuguese$PT
+
 cabat_dict <- psychTestR::i18n_dict$new(input)
 usethis::use_data(cabat_dict, overwrite = TRUE)
